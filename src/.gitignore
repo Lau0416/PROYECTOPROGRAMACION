@@ -1,0 +1,11 @@
+# Ignorar archivos de caché
+__pycache__/
+*.pyc
+
+# Ignorar datos generados
+/data/tareas.txt
+
+# Ignorar archivos de sistema o entorno
+.env
+*.log
+.DS_Store
